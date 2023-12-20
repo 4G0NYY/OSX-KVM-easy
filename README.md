@@ -75,7 +75,7 @@ processors work just fine.
   ```
   cd ~
 
-  git clone --depth 1 --recursive https://github.com/kholia/OSX-KVM.git
+  git clone --depth 1 --recursive https://github.com/4G0NYY/OSX-KVM-easy.git
 
   cd OSX-KVM
   ```
